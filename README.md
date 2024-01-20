@@ -9,7 +9,7 @@ This is information about the KLIPAD50 image
 5. 2.4G wifi on board.
 
 # Download
-From Google drive: [KLIPAD50 IMAGE](https://drive.google.com/file/d/1w1y3ECIEyXUpIBp9oqJDD-8qShJKGTBf/view?usp=sharing)
+From Google drive: [KLIPAD50 IMAGE](https://drive.google.com/file/d/1A1-Rw1vDPUT4pnvMOBWTd098l2aShehC/view?usp=drive_link)
 
 # FLASH TO EMMC
 Notice: the system has been burnned the each KLIPAD50 before leaving the factory, and you do not need to burn it again unless you want to update a new image.   
